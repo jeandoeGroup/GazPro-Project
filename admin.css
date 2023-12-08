@@ -18,8 +18,8 @@ body{
 .outer-box{
     border: 1px solid black;
     border-radius: 20px;
-    height: 400px;
-    width: 1300px;
+    height: 100vh;
+    width: 100%;
     background-color: rgba(0, 255, 255,0.3);
     backdrop-filter: blur(15px);
     margin-top: 10px;
